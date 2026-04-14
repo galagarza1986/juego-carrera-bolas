@@ -1,4 +1,7 @@
 class Aaron:
 
     def __init__(self):
-        self.name="Aaron"
+        self.name="Galagarza Juanito"
+        self.precio= 1000
+
+
